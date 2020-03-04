@@ -1,0 +1,13 @@
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, tempora. Atque labore libero pariatur velit eos, alias, molestiae a nostrum consequuntur quasi, placeat optio eveniet doloremque iusto repellendus accusantium dolorem quaerat quos ullam fugit aperiam est vero. Eaque deserunt dicta provident eligendi voluptatem perferendis doloremque, aspernatur similique placeat! Necessitatibus, atque?
+
+    HTTP Statuses:
+    200: OK
+    403: Forbidden
+    404: Not Found
+
+    readyState Values:
+    0: request not initialized;
+    1: server connection established;
+    2: request recieved;
+    3: processing request;
+    4: request finished and response is ready;
